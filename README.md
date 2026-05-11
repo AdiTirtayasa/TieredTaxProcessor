@@ -26,11 +26,16 @@ Program ini mempertimbangkan:
 | Rp250.000.001 - Rp500.000.000  | 25%        | 30%            |
 | > Rp500.000.000                | 30%        | 36%            |
 
+## Bila menggunakan Git clone
+1.buat folder kosong
+2.masuk ke vs code terus buka foldernya
+3.bukak terminal ketik = git clone https://github.com/AdiTirtayasa/TieredTaxProcessor.git
+4.lalu di terminal tetik = cd tax_calculatur
 ## Cara Menjalankan test Project
 1.pastikan kalian sudah masuk ke dalam folder tertama di terminal pastikan kalina sudah berada di \tax_calculator
 2.buat buat file baru di test/java/com/tax, dengan nama file yang yang sama dengan file yang ingin di uji/test dan berikan Test Di akhir
-### Run
-
+3.tulis test yang kalian ingin lakukan menggunakan JUnit 5
+4.jalankan mvn test
 
 ## Anggota Kelompok 2
 
