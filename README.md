@@ -37,8 +37,11 @@ Program ini mempertimbangkan:
 
 ## Cara Menjalankan test Project
 1.pastikan kalian sudah masuk ke dalam folder tertama di terminal pastikan kalina sudah berada di TieredTaxProcessor\tax_calculator
+
 2.buat buat file baru di test/java/com/tax, dengan nama file yang yang sama dengan file yang ingin di uji/test dan berikan Test Di akhir
+
 3.tulis test yang kalian ingin lakukan menggunakan JUnit 5
+
 4.jalankan mvn test
 
 ## Anggota Kelompok 2
