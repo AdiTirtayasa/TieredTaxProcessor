@@ -28,9 +28,13 @@ Program ini mempertimbangkan:
 
 ## Bila menggunakan Git clone
 1.buat folder kosong
+
 2.masuk ke vs code terus buka foldernya
+
 3.bukak terminal ketik = git clone https://github.com/AdiTirtayasa/TieredTaxProcessor.git
+
 4.lalu di terminal tetik = cd .\TieredTaxProcessor\tax_calculator\
+
 ## Cara Menjalankan test Project
 1.pastikan kalian sudah masuk ke dalam folder tertama di terminal pastikan kalina sudah berada di TieredTaxProcessor\tax_calculator
 2.buat buat file baru di test/java/com/tax, dengan nama file yang yang sama dengan file yang ingin di uji/test dan berikan Test Di akhir
